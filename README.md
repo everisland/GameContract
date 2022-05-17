@@ -1,0 +1,2 @@
+# GameContract
+contract for game
